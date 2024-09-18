@@ -1,0 +1,5 @@
+https://valeman.medium.com/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718
+https://machinelearningmastery.com/how-to-get-better-at-machine-learning/
+https://machinelearningmastery.com/probability-calibration-for-imbalanced-classification/
+https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+https://medium.com/data-hackers/aplicando-previs%C3%A3o-conforme-em-modelos-de-classifica%C3%A7%C3%A3o-a26b2805ab0
